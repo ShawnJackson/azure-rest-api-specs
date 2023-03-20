@@ -789,8 +789,7 @@
     "OwaspCrsExclusionEntry": {
       "required": [
         "matchVariable",
-        "selectorMatchOperator",
-        "selector"
+        "selectorMatchOperator"
       ],
       "description": "Allow to exclude some variable satisfy the condition for the WAF check.",
       "properties": {
